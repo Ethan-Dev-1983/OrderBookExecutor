@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\utils\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\utils\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\utils\\filedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\utils\\filedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\taskmanagement\\localstdintaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\taskmanagement\\localstdintaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\taskmanagement\\networktaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\taskmanagement\\networktaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\core\\orderbookserialexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\core\\orderbookserialexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\core\\orderbookparallelexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\core\\orderbookparallelexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\utils\\fileutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\utils\\logutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\utils\\logutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\taskmanagement\\localfiletaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\taskmanagement\\localfiletaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\core\\businessconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\core\\businessconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\core\\iorderbookexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\core\\iorderbookexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\core\\orderbookexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\core\\orderbookexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\taskmanagement\\basetaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\taskmanagement\\basetaskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|c:\\users\\rephe\\source\\repos\\orderbookprocessor\\orderbookprocessor\\taskmanagement\\workertaskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C29572-D32E-4C8C-953C-A61EBF9A01A8}|OrderBookProcessor\\OrderBookProcessor.csproj|solutionrelative:orderbookprocessor\\taskmanagement\\workertaskfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderBookSerialExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\OrderBookSerialExecutor.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Core\\OrderBookSerialExecutor.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\OrderBookSerialExecutor.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Core\\OrderBookSerialExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:06:11.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderBookParallelExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\OrderBookParallelExecutor.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Core\\OrderBookParallelExecutor.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\OrderBookParallelExecutor.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Core\\OrderBookParallelExecutor.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv5MAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:44:05.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkTaskWorker.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\NetworkTaskWorker.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\TaskManagement\\NetworkTaskWorker.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\NetworkTaskWorker.cs",
+              "RelativeToolTip": "OrderBookProcessor\\TaskManagement\\NetworkTaskWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:02:52.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalStdInTaskWorker.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\LocalStdInTaskWorker.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\TaskManagement\\LocalStdInTaskWorker.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\LocalStdInTaskWorker.cs",
+              "RelativeToolTip": "OrderBookProcessor\\TaskManagement\\LocalStdInTaskWorker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:24:17.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Utils\\Bootstrapper.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\Bootstrapper.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Utils\\Bootstrapper.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowGkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:41:03.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileDownLoader.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\FileDownLoader.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Utils\\FileDownLoader.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\FileDownLoader.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Utils\\FileDownLoader.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T15:16:59.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileUtils.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\FileUtils.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Utils\\FileUtils.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\FileUtils.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Utils\\FileUtils.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAD4vzsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:19:22.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogUtils.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\LogUtils.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Utils\\LogUtils.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Utils\\LogUtils.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Utils\\LogUtils.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:20:22.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocalFileTaskWorker.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\LocalFileTaskWorker.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\TaskManagement\\LocalFileTaskWorker.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\LocalFileTaskWorker.cs",
+              "RelativeToolTip": "OrderBookProcessor\\TaskManagement\\LocalFileTaskWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:11:06.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessConstant.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\BusinessConstant.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Core\\BusinessConstant.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\BusinessConstant.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Core\\BusinessConstant.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T01:30:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderBookExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\OrderBookExecutor.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Core\\OrderBookExecutor.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\OrderBookExecutor.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Core\\OrderBookExecutor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:33:43.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseTaskWorker.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\BaseTaskWorker.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\TaskManagement\\BaseTaskWorker.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\BaseTaskWorker.cs",
+              "RelativeToolTip": "OrderBookProcessor\\TaskManagement\\BaseTaskWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:19:37.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderBookExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\IOrderBookExecutor.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Core\\IOrderBookExecutor.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\IOrderBookExecutor.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Core\\IOrderBookExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:44:47.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Program.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T12:39:43.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\Order.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\Core\\Order.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\Core\\Order.cs",
+              "RelativeToolTip": "OrderBookProcessor\\Core\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:56:30.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkerTaskFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\WorkerTaskFactory.cs",
+              "RelativeDocumentMoniker": "OrderBookProcessor\\TaskManagement\\WorkerTaskFactory.cs",
+              "ToolTip": "C:\\Users\\rephe\\source\\repos\\OrderBookProcessor\\OrderBookProcessor\\TaskManagement\\WorkerTaskFactory.cs",
+              "RelativeToolTip": "OrderBookProcessor\\TaskManagement\\WorkerTaskFactory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:11:17.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
